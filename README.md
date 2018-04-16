@@ -1,9 +1,9 @@
 # grup-ubuntu
 
-# sudo fdisk -l
+- sudo fdisk -l
 
-# sudo mount dev/sdaX /mnt/
+- sudo mount dev/sdaX /mnt/
 
-# sudo grup-install --root-directory=/mnt/ /dev/sda
+- sudo grup-install --root-directory=/mnt/ /dev/sda
 
-# sudo update-grup
+- sudo update-grup
